@@ -1,6 +1,6 @@
 "Asm.fif" include
 
-<b <{ c7 PUSH }>s s, b> boc>B B>base64
+."Data: " <b 179 64 u, b>  boc>B B>base64 type cr
 
-.s
+."Code: " <b <{ c4 PUSH CTOS 64 LDU }>s s, b> boc>B B>base64 type cr
 
