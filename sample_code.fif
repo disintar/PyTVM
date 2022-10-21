@@ -2,5 +2,5 @@
 
 ."Data: " <b 179 64 u, b>  boc>B B>base64 type cr
 
-."Code: " <b <{ c4 PUSH CTOS 64 LDU }>s s, b> boc>B B>base64 type cr
+."Code: " <b <{ SUB }>s s, b> boc>B B>base64 type cr
 
